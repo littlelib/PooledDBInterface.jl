@@ -1,0 +1,12 @@
+name = "PooledDBInterface"
+uuid = "822deab6-4b94-4ddf-82d0-ef5121dcaa2d"
+authors = ["littlelib <littlelib@naver.com>"]
+version = "0.1.0"
+
+[deps]
+ConcurrentUtilities = "f0e56b4a-5159-44fe-b623-3e5288b988bb"
+DBInterface = "a10d1c49-ce27-4219-8d33-6db1a4562965"
+
+[compat]
+ConcurrentUtilities = "2.4.2"
+DBInterface = "2.6.1"
